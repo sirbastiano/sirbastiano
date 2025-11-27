@@ -1,5 +1,5 @@
 <h1 align="center">Roberto Del Prete, Ph.D.</h1>
-<h3 align="center">Machine Learning Engineer · Embedded AI & ML Compilers · Space Systems</h3>
+<h3 align="center">Machine Learning Engineer · Embedded AI & ML · Space Systems</h3>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=Dwc8YxwAAAAJ&hl=en">
