@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/roberto-del-prete-8175a7147/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://orcid.org">
+  <a href="[https://orcid.org](https://orcid.org/0000-0003-0810-4050)">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
 </p>
