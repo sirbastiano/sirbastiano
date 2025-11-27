@@ -15,10 +15,10 @@
 
 ---
 
-## Profile
+## About this dude
 
 **5+ years** developing AI systems for **embedded, edge, and space applications**.  
-Specialized in **ML compilers**, **hardware–software co-design**, and **real-time inference pipelines** on constrained devices.
+Specialized in **ML**, **hardware–software co-design**, and **real-time inference pipelines** on constrained devices.
 
 Works at the intersection of:
 - Model architecture ↔ Compiler ↔ Hardware  
@@ -27,28 +27,6 @@ Works at the intersection of:
 
 **Publications:** 30 (17 first-author) · **Invited talks:** 18 · **Mentored:** 18+ researchers and students
 
----
-
-## Core Focus
-
-| Domain | Expertise |
-|------|------|
-| **Embedded & Space AI** | Real-time, power-aware, fault-tolerant AI |
-| **ML Compilers** | Graph lowering, operator fusion, hardware-aware partitioning |
-| **Optimization** | Quantization, pruning, distillation, NAS |
-| **Systems** | On-board pipelines, deterministic inference |
-| **Deployment** | Edge accelerators, ARM SoCs, space-grade processors |
-
----
-
-## Current Position
-
-**Internal Research Fellow — ESA Φ-Lab (Frascati, Italy)**  
-*2025 – Present*
-
-- Lead development of **ML frameworks for space-grade hardware**
-- Design and optimize **C++ inference engines and Python APIs**
-- Implement **compiler-level optimizations** for low-power, real-time inference
-- Drive **HW/SW co-design** for mission-critical AI systems
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom decoration" />
+</p>
